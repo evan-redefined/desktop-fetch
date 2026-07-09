@@ -32,7 +32,7 @@ GREEN="\e[32m"
 RESET="\e[0m"
 
 # Tampilkan informasi ke layar
-echo -e "\n${BOLD}${CYAN}💻 LAPTOP DEVICE INFORMATION${RESET}"
+echo -e "\n${BOLD}${CYAN}💻 DEVICE INFORMATION${RESET}"
 echo -e "${CYAN}-----------------------------------${RESET}"
 echo -e "${BOLD}Brand/Vendor  :${RESET} $VENDOR"
 echo -e "${BOLD}Device Model  :${RESET} $PRODUCT"
