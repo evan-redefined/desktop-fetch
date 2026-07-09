@@ -1,4 +1,4 @@
-# 💻 Laptop Fetcher
+# 💻 Device Fetcher
 
 A simple, lightweight, and zero-dependency Bash script to retrieve and display essential laptop identification details directly from your Linux terminal. 
 
@@ -13,7 +13,7 @@ This tool is specifically designed to fetch manufacturing data rather than gener
 
 ## 📸 Preview
 ```text
-💻 LAPTOP DEVICE INFORMATION
+💻 DEVICE INFORMATION
 -----------------------------------
 Brand/Vendor  : Acer
 Device Model  : Aspire A314-41
